@@ -9,7 +9,6 @@ import {
   TouchableOpacity,
   ScrollView
 } from 'react-native';
-
 interface MenuItem {
   id: string;
   dishName: string;
